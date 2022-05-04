@@ -1,2 +1,2 @@
-# cse210_classDay6
+# Robot
 Simple class program
